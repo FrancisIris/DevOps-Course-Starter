@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\todo_app",
+    "\\todo_app\\data",
+    "\\todo_app\\static",
+    "\\todo_app\\templates"
+  ],
+  "SelectedNode": "\\todo_app\\data\\session_items.py",
+  "PreviewInSolutionExplorer": false
+}
